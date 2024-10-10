@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    margin:  0;
+    padding: 0;
+}
+
+h2 {
+    margin-top: 1.25rem;
+}
+
+canvas {
+    border: 2px solid #000;
+    display: block;
+    margin: 1.25rem auto;
+}
+
+p{
+    font-size: 1.125rem;
+    margin: .625rem;
+}
